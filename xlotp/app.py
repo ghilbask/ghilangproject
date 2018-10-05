@@ -41,7 +41,7 @@ def lodprint(s):
         sys.stdout.flush()
         time.sleep(7.0/90)
 
-404=(gt+"""
+semut=(gt+"""
 404L i f e n o t f o u n d  
  =================================
 """)
