@@ -96,7 +96,7 @@ def menu_1():
     pkt = str(input("Pilih Sesuai Keinginan >> "))
     
     if pkt == '1':
-        i = '8110577'
+        i = '8110671'
     elif pkt == '2':
         i = '8211010'
     elif pkt == '3':
