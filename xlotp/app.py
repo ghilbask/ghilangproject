@@ -92,7 +92,8 @@ def menu_1():
     print (p+" 6.Xtra 25GB 30day 102.900 ")
     print (p+" 7.Kuota 700mb 10k")
     print (p+" 8.xtra 10GB 30day 59k")
-    print (p+" 9.Manual service id")
+     print (p+" 8.xtra 10GB+10GB 30day 89k")
+    print (p+" 10.Manual service id")
     pkt = str(input("Pilih Sesuai Keinginan >> "))
     
     if pkt == '1':
@@ -112,6 +113,8 @@ def menu_1():
     elif pkt == '8':
         i ='8211183'
     elif pkt == '9':
+        i ='8211285'
+    elif pkt == '10':
         i = str(input("Service ID Paket👉"))
     else:
         print("Pilihan gak tercantum")
